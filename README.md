@@ -11,9 +11,18 @@ $ cmake ..
 $ make
 ```
 
+## tests
+
+```
+$ # mkdir build && cd build
+$ # cmake ..
+$ ctest
+```
+
 ## dependencies
 
 - cmake
 - make
 - g++
 - (CPM - Catch2)
+- (Bear - needed to resolve lsp missing header files complaints wrt Catch2)
