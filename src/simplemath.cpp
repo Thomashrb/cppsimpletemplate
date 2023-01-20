@@ -1,5 +1,6 @@
 #include "simplemath.hpp"
 
-namespace simplemath {
+namespace simplemath
+{
 int addone(int i) { return i + 1; }
 }  // namespace simplemath

@@ -1,7 +1,8 @@
 #ifndef SRC_SIMPLEMATH_HPP_
 #define SRC_SIMPLEMATH_HPP_
 
-namespace simplemath {
+namespace simplemath
+{
 int addone(int i);
 }
 
